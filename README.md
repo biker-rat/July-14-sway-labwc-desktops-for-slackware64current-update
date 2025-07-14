@@ -1,5 +1,5 @@
 # July-14-sway-labwc-desktops-for-slackware64current-update
-slackware64  current has labwc in it. The additions is pretty trivial to make additions to use it  a stand alone desktop, and also sway
+slackware64  current has labwc in it. It is is pretty trivial to make additions to use it  a stand alone desktop, and also sway
 
 wlroots scdoc labwc seatd are now all part of slackware current. Howver, labwc is not superuseful as a standalone desktop in current at this time as: 
 out of the box,using the included labwc startup command "labwc",  there is no panel to minimize apps to, no wallpaper setter, no sound suport on startup , no automount on start up.
